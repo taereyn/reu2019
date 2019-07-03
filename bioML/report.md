@@ -22,12 +22,13 @@ My Abstract
       Open source software
       Distributions are different versions such as Ubuntu and Mint 
       Focuses on security and durability
+   
    Git
       Git is a distributed version-control system for tracking changes in source code during software development
       It is designed for coordinating work among programmers, but it can be used to track changes in any set of files
-   Ccmake
+  
+  Ccmake
       
-   
    Cmake
       Cross-platform free and open-source software tool for managing the build process of software using a compiler-independent method. 
       Very useful with development of makefiles
