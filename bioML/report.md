@@ -4,6 +4,18 @@
 
 My Abstract
 
+### Motivation
+
+Motivation 
+
+### Results 
+
+Results
+
+### Availability and Implementation 
+
+Availlability and Implementation
+
 ## Introduction
 
 1. Introduce and explain SBMLSolver
@@ -17,24 +29,24 @@ My Abstract
 1. Explain the documentation process
    Documenting the build system of a software module that will be used in a number of products.  
   
-2. Explain the uses of ...
+### Explain the uses of
 
-3. Linux
+1. Linux
       Open source software
       Distributions are different versions such as Ubuntu and Mint 
       Focuses on security and durability
    
-4. Git
+2. Git
       Git is a distributed version-control system for tracking changes in source code during software development
       It is designed for coordinating work among programmers, but it can be used to track changes in any set of files
   
-5. Ccmake
+3. Ccmake
       
-6. Cmake
+4. Cmake
       Cross-platform free and open-source software tool for managing the build process of software using a compiler-independent method. 
       Very useful with development of makefiles
 
- 7. Gcc
+ 5. Gcc
       GNU Compiler Collection 
       An integrated distribution of compilers for several major programming languages
       C, C++ and Java
