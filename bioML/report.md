@@ -23,13 +23,14 @@ Introduction
 
 ## Methodology 
 
-1. Explain the documentation process
-   Documenting the build system of a software module that will be used in a number of products.  
-  
-   Explain the results
+1. Worked to both document and improve software build process for SBML solver
+2. which included better documentation process and determing missing steps
    1. Needed libxml2 to run
    2. Needed zlib1g
    3. Needed libncurses 
+3. downlaod required dependencies 
+4. Compling and installing software
+
    
 ### Explain the uses of
 
@@ -52,6 +53,7 @@ Introduction
       GNU Compiler Collection 
       An integrated distribution of compilers for several major programming languages
       C, C++ and Java
+    
 ## Conclusion
 
 The SBML Solver 
