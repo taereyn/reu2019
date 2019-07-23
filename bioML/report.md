@@ -4,9 +4,9 @@
 
 
 ### Motivation 
-This paper presents Systems Biology Markup Language (SBML) solver which is a extensible, high-performance, cross-platform, open-source software library. SBML is a shared library that loads, compiles and executes models written in the SBML language. The solver is designed to be included into other existing programs. The SBML solver fits into a suite of physics (fluids, soft-matter, visco-elastic) and computational biology called ‘Mechanica’. This module is designed to calculate the time evolution of a chemical network that’s attached to some simulated physical object (such as cell, membrane, volume), so forth.
+   This paper presents Systems Biology Markup Language (SBML) solver which is a extensible, high-performance, cross-platform, open-source software library. SBML is a shared library that loads, compiles and executes models written in the SBML language. Building the SBML solver involves tracking down a lot of dependencies and it’s important for users who want to compile it to have clear instructions on how to do so. The SBML Solver will also be connected to integrate a PhysiCell software package. For instane, the SBML solver fits into a suite of physics (fluids, soft-matter, visco-elastic) and computational biology called ‘Mechanica’. This module is designed to calculate the time evolution of a chemical network that’s attached to some simulated physical object (such as cell, membrane, volume), so forth.
+   
 
-   Building the SBML solver involves tracking down a lot of dependencies and it’s important for users who want to compile it to have clear instructions on how to do so. The SBML Solver will also be connected to integrate a PhysiCell software package. 
    
 ## Objectives 
 
