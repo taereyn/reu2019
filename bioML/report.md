@@ -7,6 +7,17 @@
 This paper presents Systems Biology Markup Language (SBML) solver which is a extensible, high-performance, cross-platform, open-source software library. SBML is a shared library that loads, compiles and executes models written in the SBML language. The solver is designed to be included into other existing programs. The SBML solver fits into a suite of physics (fluids, soft-matter, visco-elastic) and computational biology called ‘Mechanica’. This module is designed to calculate the time evolution of a chemical network that’s attached to some simulated physical object (such as cell, membrane, volume), so forth.
 
    Building the SBML solver involves tracking down a lot of dependencies and it’s important for users who want to compile it to have clear instructions on how to do so. The SBML Solver will also be connected to integrate a PhysiCell software package. 
+   
+## Objectives 
+
+* Learn about the Deployment phase of software engineering.
+* ensure cross-platform builds and fix issues as encountered
+* update dependency library to enable 64 bit Windows builds
+* update build instructions to make sure users and developers can use the library
+* verify cross-platform builds work on Linux and Windows with latest operating systems and compilers.
+* make sure build instructions are easy to follow, going through every step to make sure it’s repeatable.
+* track down and document all required third party libraries so clean-room builds works.
+* document the software development process with user and developer roles, write documentation so developers can fork, commit changes and issue pull requests. 
 
 
 ### Results 
@@ -62,8 +73,6 @@ The SBML Solver
 
 ## Data
 
-## Future Work
-
 ## Acknowledgements 
    REU, Indiana Univeristy, Andy and Georgey 
 
@@ -72,6 +81,7 @@ The SBML Solver
  2. https://zlib.net/
  3. https://zlib.net/zlib_tech.html
  4. https://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO/intro.html
+ 5. https://pythonscriptingmanual.readthedocs.io/en/latest/sbml_solver.html
 
 command time
 makefiles
