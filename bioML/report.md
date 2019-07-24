@@ -82,6 +82,7 @@ The SBML Solver
  3. https://zlib.net/zlib_tech.html
  4. https://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO/intro.html
  5. https://pythonscriptingmanual.readthedocs.io/en/latest/sbml_solver.html
+ 6. https://guides.github.com/activities/hello-world/
 
 command time
 makefiles
