@@ -83,6 +83,7 @@ The SBML Solver
  4. https://www.tldp.org/HOWTO/NCURSES-Programming-HOWTO/intro.html
  5. https://pythonscriptingmanual.readthedocs.io/en/latest/sbml_solver.html
  6. https://guides.github.com/activities/hello-world/
+ 7. https://pdf.wondershare.com/business/what-is-software-deployment.html
 
 command time
 makefiles
