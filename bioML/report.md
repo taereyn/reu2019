@@ -84,6 +84,7 @@ The SBML Solver
  5. https://pythonscriptingmanual.readthedocs.io/en/latest/sbml_solver.html
  6. https://guides.github.com/activities/hello-world/
  7. https://pdf.wondershare.com/business/what-is-software-deployment.html
+ 8. https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
 
 command time
 makefiles
